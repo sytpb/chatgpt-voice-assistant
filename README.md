@@ -8,4 +8,5 @@
     An open-source, define and locally running an voice assistant you want to talk to.<br>
 </p>
 
-![image](https://github.com/sytpb/chatgpt-voice-assistant/assets/12178686/d9378a03-979b-4be1-b072-e595c0b6036d)
+![voice](https://github.com/sytpb/chatgpt-voice-assistant/assets/12178686/bde735f2-b4c8-4fa3-9956-5b7651121c01)
+
