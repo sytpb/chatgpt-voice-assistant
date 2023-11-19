@@ -211,7 +211,7 @@ class VoAssitant {
     
     debug.out(`\n
 **************************** 
-Welcome to your AI-powered voice chat 
+Welcome, I am your AI Voice assistant 
 ****************************
 Press [Space] when you're ready to start speaking`
     );
