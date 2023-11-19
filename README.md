@@ -41,4 +41,7 @@ then change the .env.example to .env
 * "readline"
 + "speaker"
 
+**notices:**
+I am running the code on Windows, I don't know how about the other os system, such as Mac. 
+any question please kindly submit the issue
 
