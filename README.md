@@ -1,5 +1,9 @@
-# chatgpt-voice-assistant
-talking with AI assistant, who is a perfect helper.
 
+<h1 align="center">● chatgpt-voice-assistant</h1>
 
-Hi welcome
+<p align="center">
+    <br>
+    <br>
+    <b>Talk to everybody you want</b><br>
+    An open-source, define and locally running an voice assistant you want to talk to.<br>
+</p>
