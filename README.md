@@ -15,12 +15,18 @@
 **Demo Englisht Partner**
 
 
-
 https://github.com/sytpb/chatgpt-voice-assistant/assets/12178686/43c64f5c-b712-4065-8ec8-8d04d131d488
 
 **Demo Japanese Partner**
 
-**Demo Finish Partner**
+https://github.com/sytpb/chatgpt-voice-assistant/assets/12178686/812b7ad1-cab7-48a9-b54d-172979d89a43
+
+
+**Demo Koean Partner**
+
+https://github.com/sytpb/chatgpt-voice-assistant/assets/12178686/a7b54778-d413-49e2-815b-d88b4904ce26
+
+
 
 <br>
 
