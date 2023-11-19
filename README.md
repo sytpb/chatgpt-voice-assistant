@@ -11,6 +11,11 @@
 ![voice](https://github.com/sytpb/chatgpt-voice-assistant/assets/12178686/bde735f2-b4c8-4fa3-9956-5b7651121c01)
 
 
+
+**Demo**
+https://github.com/sytpb/chatgpt-voice-assistant/assets/12178686/9c7c8410-9e5d-448b-b7ca-f44fa0c96842
+
+
 <br>
 
 **install:**
