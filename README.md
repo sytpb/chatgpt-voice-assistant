@@ -13,12 +13,31 @@
 
 <br>
 
+**install:**
 ```shell
 npm install
 ```
 
+**run:**
 ```shell
 npm run dev
 ```
 <br>
+
+**requirement:**
+```shell
+fill your openai secret key
+then change the .env.example to .env
+```
+
+**dependency list:**
+		"axios",
+		"dotenv",
+		"ffmpeg-static",
+		"fluent-ffmpeg",
+		"form-data",
+		"node-microphone",
+		"openai",
+		"readline",
+		"speaker""
 
