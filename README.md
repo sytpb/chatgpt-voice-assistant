@@ -31,13 +31,13 @@ then change the .env.example to .env
 ```
 
 **dependency list:**
-		"axios",
-		"dotenv",
-		"ffmpeg-static",
-		"fluent-ffmpeg",
-		"form-data",
-		"node-microphone",
-		"openai",
-		"readline",
-		"speaker""
+		- "axios",
+		* "dotenv",
+		+ "ffmpeg-static",
+		- "fluent-ffmpeg",
+		* "form-data",
+		+ "node-microphone",
+		- "openai",
+		* "readline",
+		+ "speaker""
 
