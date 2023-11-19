@@ -12,13 +12,15 @@
 
 
 
-**Demo**
+**Demo Englisht Partner**
 
 
 
 https://github.com/sytpb/chatgpt-voice-assistant/assets/12178686/43c64f5c-b712-4065-8ec8-8d04d131d488
 
+**Demo Japanese Partner**
 
+**Demo Finish Partner**
 
 <br>
 
