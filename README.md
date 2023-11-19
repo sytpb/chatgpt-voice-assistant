@@ -24,6 +24,14 @@ npm run dev
 ```
 <br>
 
+**Voice assistant** lets talk to AI anytime. You can speaking with ChatGPT, You can define the role you like to talk.
+
+- IELTS speaking coach.
+- Math teacher.
+- Job Interviewer
+- ...etc.
+
+
 **requirement:**
 ```shell
 fill your openai secret key
