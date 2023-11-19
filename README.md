@@ -10,3 +10,15 @@
 
 ![voice](https://github.com/sytpb/chatgpt-voice-assistant/assets/12178686/bde735f2-b4c8-4fa3-9956-5b7651121c01)
 
+
+<br>
+
+```shell
+npm install
+```
+
+```shell
+npm run dev
+```
+<br>
+
