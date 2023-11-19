@@ -13,7 +13,11 @@
 
 
 **Demo**
-https://github.com/sytpb/chatgpt-voice-assistant/assets/12178686/9c7c8410-9e5d-448b-b7ca-f44fa0c96842
+
+
+
+https://github.com/sytpb/chatgpt-voice-assistant/assets/12178686/43c64f5c-b712-4065-8ec8-8d04d131d488
+
 
 
 <br>
