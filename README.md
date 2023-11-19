@@ -4,7 +4,7 @@
 <p align="center">
     <br>
     <br>
-    <b>Talk to everybody you want</b><br>
+    <b>Talk to anybody you want</b><br>
     An open-source, define and locally running an voice assistant you want to talk to.<br>
 </p>
 
