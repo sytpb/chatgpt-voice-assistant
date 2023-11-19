@@ -31,8 +31,8 @@ then change the .env.example to .env
 ```
 
 **dependency list:**
-		- "axios"
-		* "dotenv"
+		- axios
+		* dotenv
 		+ "ffmpeg-static"
 		- "fluent-ffmpeg"
 		* "form-data"
