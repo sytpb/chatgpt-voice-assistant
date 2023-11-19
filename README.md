@@ -31,9 +31,6 @@ then change the .env.example to .env
 ```
 
 **dependency list:**
-- George Washington
-* John Adams
-+ Thomas Jefferson
 - axios
 * dotenv
 + "ffmpeg-static"
@@ -43,4 +40,5 @@ then change the .env.example to .env
 - "openai"
 * "readline"
 + "speaker"
+
 
