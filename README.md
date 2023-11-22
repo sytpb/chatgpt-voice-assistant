@@ -39,6 +39,12 @@ npm install
 ```shell
 npm run dev
 ```
+**conversation:**
+```shell
+Click [Space] to start
+your speaking
+Click [Space] to stop
+```
 <br>
 
 **Voice assistant** lets talk to AI anytime. You can speaking with ChatGPT, You can define the role you like to talk.
